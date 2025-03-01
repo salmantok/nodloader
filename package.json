@@ -1,6 +1,6 @@
 {
   "name": "nodloader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Downloader Sederhana untuk Node.js",
   "exports": {
     "require": "./dist/cjs/index.js",
